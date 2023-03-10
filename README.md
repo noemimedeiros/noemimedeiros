@@ -1,7 +1,7 @@
 ## Olá! Noemi Medeiros aqui ヾ(•ω•`)
 
 <p>Desenvolvedora de Software dedicada à solução de problemas, comunicações e apresentações, com experiência desde o design até a implementação e a integração.</p>
-<p>Trabalho atualmente com Desenvolvimento Full-Stack na <a href="www.prestcontas.com.br"><i>PrestContas - Acessoria e Consultoria em Gestão Pública e Empresarial</i></a></p>
+<p>Trabalho atualmente com Desenvolvimento Full-Stack na <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Acessoria e Consultoria em Gestão Pública e Empresarial</i></a></p>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
