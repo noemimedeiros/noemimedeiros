@@ -2,11 +2,15 @@
 
 <p>Desenvolvedora de Software dedicada à solução de problemas, comunicações e apresentações, com experiência desde o design até a implementação e a integração.</p>
 
+[![Linkedin: Noemi Medeiros](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noemi-medeiros/)](https://www.linkedin.com/in/noemi-medeiros/)
+[![GitHub Noemi Medeiros](https://img.shields.io/github/followers/noemimedeiros?label=Seguir&style=social)](https://github.com/noemimedeiros)
+
 <h3>Atualmente:</h3>
 <ul>
-<li>Trabalhando com Desenvolvimento Full-Stack na <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Acessoria e Consultoria em Gestão Pública e Empresarial</i></a>;</li>
-<li>Graduando em Computação na UEPB (Universidade Estadual da Paraíba);</li>
+<li>Trabalhando com Desenvolvimento Full-Stack na <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Assessoria e Consultoria em Gestão Pública e Empresarial</i></a>;</li>
+<li>Graduando em Computação na <a href="https://uepb.edu.br"><i>UEPB (Universidade Estadual da Paraíba)</i></a>;</li>
 </ul>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
