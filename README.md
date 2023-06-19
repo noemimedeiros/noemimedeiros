@@ -21,10 +21,3 @@
   <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Figma" height="30" src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
-<hr>
-<div align="center"> 
-
-  ![Snake animation](https://github.com/noemimedeiros/noemimedeiros/blob/output/github-contribution-grid-snake.svg)
-  
- </div> 
