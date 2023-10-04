@@ -17,3 +17,4 @@
 <li>Graduando em Computação na <a href="https://uepb.edu.br"><i>UEPB (Universidade Estadual da Paraíba)</i></a>;</li>
 </ul>
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
