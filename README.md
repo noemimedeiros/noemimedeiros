@@ -16,5 +16,3 @@
 <li>Trabalhando com Desenvolvimento Full-Stack na <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Assessoria e Consultoria em Gestão Pública e Empresarial</i></a>;</li>
 <li>Graduando em Computação na <a href="https://uepb.edu.br"><i>UEPB (Universidade Estadual da Paraíba)</i></a>;</li>
 </ul>
-
-![snake animation](https://github.com/noemimedeiros/noemimedeiros/blob/output/github-contribution-grid-snake2.svg)
