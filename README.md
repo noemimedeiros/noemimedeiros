@@ -1,9 +1,9 @@
-## Olá! Noemi Medeiros aqui ヾ(•ω•`)
+## Hello! Noemi Medeiros here ヾ(•ω•`)
 
-<p>Desenvolvedora de Software dedicada à solução de problemas, comunicações e apresentações, com experiência desde o design até a implementação e a integração.</p>
+<p>Full-Stack Software developer dedicated to problem solving, communications and presentations, with experience from design to implementation.</p>
 
 [![Linkedin: Noemi Medeiros](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noemi-medeiros/)](https://www.linkedin.com/in/noemi-medeiros/)
-[![GitHub Noemi Medeiros](https://img.shields.io/github/followers/noemimedeiros?label=Seguir&style=social)](https://github.com/noemimedeiros)
+[![GitHub Noemi Medeiros](https://img.shields.io/github/followers/noemimedeiros?label=Follow&style=social)](https://github.com/noemimedeiros)
 
 <div>
 <a href="https://github.com/noemimedeiros">
@@ -11,8 +11,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemimedeiros&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-<h3>Atualmente:</h3>
+<h3>Currently:</h3>
 <ul>
-<li>Trabalhando com Desenvolvimento Full-Stack na <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Assessoria e Consultoria em Gestão Pública e Empresarial</i></a>;</li>
-<li>Graduando em Computação na <a href="https://uepb.edu.br"><i>UEPB (Universidade Estadual da Paraíba)</i></a>;</li>
+<li>Working as a Full-Stack Developer at <a href="https://www.prestcontas.com.br" target="_blank"><i>PrestContas - Assessoria e Consultoria em Gestão Pública e Empresarial</i></a>;</li>
+<li>Bachelor's student in Computer Science at <a href="https://uepb.edu.br"><i>UEPB (Universidade Estadual da Paraíba)</i></a>;</li>
 </ul>
