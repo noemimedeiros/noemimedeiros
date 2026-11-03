@@ -1,2 +1,8 @@
-![Metrics](/github-metrics.svg)
-![Top Langs](https://github-readme-stats-iota-mauve-26.vercel.app/api/top-langs/?username=noemimedeiros&layout=compact&theme=transparent)
+<div align="center">
+
+# Taking a break...
+
+Currently on a break from coding.  
+Looking forward to being back.
+
+</div>
